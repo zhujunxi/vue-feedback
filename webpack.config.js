@@ -7,8 +7,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, "./dist"),
     publicPath: "/dist/main.js",
-    filename: "vue-feedback.js",
-    library: "VueFeedback",
+    filename: "web-feedback.js",
+    library: "WebFeedback",
     libraryTarget: "umd"
   },
   module: {

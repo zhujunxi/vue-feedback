@@ -1,9 +1,9 @@
 {
-  "name": "vue-feedback",
-  "description": "A A screenshot feedback component for vue project",
+  "name": "web-feedback",
+  "description": "A screenshot feedback component for vue project",
   "version": "1.0.0",
   "author": "zhujunxi <531578783@qq.com>",
-  "main": "dist/vue-feedback.js",
+  "main": "dist/web-feedback.js",
   "license": "MIT",
   "private": false,
   "scripts": {

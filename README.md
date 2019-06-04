@@ -1,10 +1,10 @@
-# vue-feedback
+# web-feedback
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
