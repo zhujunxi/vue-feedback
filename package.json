@@ -1,7 +1,7 @@
 {
   "name": "web-feedback",
   "description": "A screenshot feedback component for vue project",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "zhujunxi <531578783@qq.com>",
   "main": "dist/web-feedback.js",
   "license": "MIT",
@@ -30,7 +30,8 @@
     "less-loader": "^5.0.0",
     "vue-loader": "^13.0.5",
     "vue-template-compiler": "^2.4.4",
-    "webpack": "^3.6.0",
-    "webpack-dev-server": "^3.1.12"
+    "webpack": "^3.12.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^2.11.1"
   }
 }

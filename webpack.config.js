@@ -9,7 +9,8 @@ module.exports = {
     publicPath: "/dist/main.js",
     filename: "web-feedback.js",
     library: "WebFeedback",
-    libraryTarget: "umd"
+    libraryTarget: "umd",
+    umdNamedDefine: true
   },
   module: {
     rules: [

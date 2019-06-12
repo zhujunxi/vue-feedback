@@ -2,6 +2,15 @@
 
 > A Vue.js project
 
+## events
+
+| 事件  | 说明                  | 返回值 |
+| ----- | --------------------- | ------ |
+| open  | 打开 WebFeedback 控件 | Func   |
+| close | 关闭 WebFeedback 控件 | Func   |
+
+> 示例： this.\$WebFeedback.open()
+
 ## Build Setup
 
 ```bash
